@@ -1,14 +1,13 @@
-﻿using System;
-
-namespace BilletLibrary
+﻿namespace BilletLibrary
 {
+    /// <inheritdoc />
     /// <summary>
-    /// MC klasse til opg 3
+    /// MC klasse, der nedarver fra Køretøj klassen
     /// </summary>
-    public class MC
+    public class MC : Køretøj
     {
-        public string Nummerplade;
-        public DateTime Dato;
+        // public string Nummerplade;
+        // public DateTime Dato;
 
         /// <summary>
         /// Metode, der returnerer MC's pris
@@ -16,7 +15,7 @@ namespace BilletLibrary
         /// <returns>
         /// Returns pris på 125
         /// </returns>
-        public decimal Pris()
+        public override decimal Pris()
         {
             return 125;
         }
@@ -27,7 +26,7 @@ namespace BilletLibrary
         /// <returns>
         /// Returns "MC"
         /// </returns>
-        public string Køretøj()
+        public override string TypeKøretøj()
         {
             return "MC";
         }

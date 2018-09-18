@@ -1,23 +1,21 @@
-﻿using System;
-
-namespace BilletLibrary
+﻿namespace BilletLibrary
 {
+    /// <inheritdoc />
     /// <summary>
-    /// Bil klassen
-    /// Indeholder basic bil info
+    /// Bil klassen, nedarver fra Køretøj klassen
     /// </summary>
-    public class Bil
+    public class Bil : Køretøj
     {
-        public string Nummerplade;
-        public DateTime Dato;
+        // public string Nummerplade;
+        // public DateTime Dato;
 
         /// <summary>
-        /// Metode, der returnerer bilens pris
+        /// Metode, der returnerer pris på bil
         /// </summary>
         /// <returns>
         /// Returns pris på 240
         /// </returns>
-        public decimal Pris()
+        public override decimal Pris()
         {
             return 240;
         }
@@ -28,7 +26,7 @@ namespace BilletLibrary
         /// <returns>
         /// Returns "bil"
         /// </returns>
-        public string Køretøj()
+        public override string TypeKøretøj()
         {
             return "bil";
         }

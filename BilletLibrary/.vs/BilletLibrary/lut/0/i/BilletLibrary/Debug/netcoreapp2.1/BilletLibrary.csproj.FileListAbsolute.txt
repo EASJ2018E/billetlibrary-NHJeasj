@@ -1,6 +1,5 @@
 C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.deps.json
 C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.dll
-C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.csprojAssemblyReference.cache
 C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.csproj.CoreCompileInputs.cache
 C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfoInputs.cache
 C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfo.cs

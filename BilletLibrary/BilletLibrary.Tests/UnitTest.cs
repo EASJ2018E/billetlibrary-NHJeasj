@@ -6,7 +6,7 @@ namespace BilletLibrary.Tests
     /// Test klasse
     /// </summary>
     [TestClass]
-    public class UnitTest1
+    public class UnitTest
     {
         /// <summary>
         /// Tester Pris() fra klassen Bil, forventer 240
@@ -43,16 +43,16 @@ namespace BilletLibrary.Tests
         /// Tester type af køretøj() fra klassen Bil, forventer "bil"
         /// </summary>
         [TestMethod]
-        public void BilKøretøjTest()
+        public void BilTypeKøretøjTest()
         {
             // arange
             var bil = new Bil();
 
             // act
-            string køretøj = bil.Køretøj();
+            string type = bil.TypeKøretøj();
 
             // assert
-            Assert.AreEqual("bil", køretøj);
+            Assert.AreEqual("bil", type);
         }
 
         /// <summary>
@@ -65,10 +65,10 @@ namespace BilletLibrary.Tests
             var mc = new MC();
 
             // act
-            string køretøj = mc.Køretøj();
+            string type = mc.TypeKøretøj();
 
             // assert
-            Assert.AreEqual("MC", køretøj);
+            Assert.AreEqual("MC", type);
         }
     }
 }
