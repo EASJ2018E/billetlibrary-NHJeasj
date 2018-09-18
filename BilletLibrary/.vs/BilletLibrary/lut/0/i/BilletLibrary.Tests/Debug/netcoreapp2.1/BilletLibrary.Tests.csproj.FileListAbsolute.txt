@@ -1,0 +1,13 @@
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Tests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Tests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Tests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.deps.json
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.runtimeconfig.json
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.runtimeconfig.dev.json
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\b\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.dll
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.csprojAssemblyReference.cache
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.AssemblyInfoInputs.cache
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.AssemblyInfo.cs
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.csproj.CopyComplete
+C:\source\TicketLibrary\billetlibrary-NHJeasj\BilletLibrary\.vs\BilletLibrary\lut\0\i\BilletLibrary.Tests\Debug\netcoreapp2.1\BilletLibrary.Tests.dll
