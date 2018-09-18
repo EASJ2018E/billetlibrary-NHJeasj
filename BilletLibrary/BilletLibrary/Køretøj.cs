@@ -25,5 +25,22 @@ namespace BilletLibrary
         /// Returns type af "køretøj" i string
         /// </returns>
         public abstract string TypeKøretøj();
+
+        /// <summary>
+        /// Virtual metode, hvori nummerplade skrives ind. 
+        /// Kan overskrives
+        /// </summary>
+        /// <returns>
+        /// Returns string værdi for "nummerplade" på max 7 tegn
+        /// </returns>
+        public virtual string SkrivNummerplade(string nummerpladeInput)
+        {
+            Nummerplade = nummerpladeInput;
+            if (Nummerplade.Length > 7)
+            {
+                throw new ArgumentException("Nummerpladen er forkert indtastet");
+            }
+            return Nummerplade;
+        }
     }
 }

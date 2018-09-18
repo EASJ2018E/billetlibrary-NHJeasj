@@ -1,7 +1,9 @@
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BilletLibrary.Tests
 {
+    // Tester først Pris()
     /// <summary>
     /// Test klasse
     /// </summary>
@@ -39,6 +41,8 @@ namespace BilletLibrary.Tests
             Assert.AreEqual(125, pris);
         }
 
+
+        // Tester TypeKøretøj()
         /// <summary>
         /// Tester type af køretøj() fra klassen Bil, forventer "bil"
         /// </summary>
@@ -69,6 +73,57 @@ namespace BilletLibrary.Tests
 
             // assert
             Assert.AreEqual("MC", type);
+        }
+
+
+        // Tester SkrivNummerplade()
+        /// <summary>
+        /// Tester om nummerpladen kan være på et tegn som forventet
+        /// </summary>
+        [TestMethod]
+        public void SkrivNummerpladeTestEtTegn()
+        {
+            // arange
+            var bil = new Bil();
+
+            // act
+            string nummerplade = bil.SkrivNummerplade("1");
+
+            // assert
+            Assert.AreEqual("1", nummerplade);
+        }
+
+        /// <summary>
+        /// Tester om nummerpladen kan være på syv tegn som forventet
+        /// </summary>
+        [TestMethod]
+        public void SkrivNummerpladeTestSyvTegn()
+        {
+            // arange
+            var bil = new Bil();
+
+            // act
+            string nummerplade = bil.SkrivNummerplade("1234567");
+
+            // assert
+            Assert.AreEqual("1234567", nummerplade);
+        }
+
+        /// <summary>
+        /// Tester om SkrivNummerplade() kan tage flere end 7 tegn, forventer exception
+        /// </summary>
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentException))]
+        public void SkrivNummerpladeTestForMangeTegn()
+        {
+            // arange
+            var bil = new Bil();
+
+            // act
+            string nummerplade = bil.SkrivNummerplade("12345678"); // forventer at der kastes exception her
+
+            // assert
+            Assert.Fail(); // hvis systemet kører hertil er exceptionen fejlet
         }
     }
 }
