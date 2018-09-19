@@ -80,6 +80,9 @@ namespace BilletLibrary.Tests
         /// <summary>
         /// Tester om nummerpladen kan være på et tegn som forventet
         /// </summary>
+        /// <remarks>
+        /// Nummerplade på 1 tegn.
+        /// </remarks>
         [TestMethod]
         public void SkrivNummerpladeTestEtTegn()
         {
