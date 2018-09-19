@@ -5739,23 +5739,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nadia\\.nuget\\packages\\": {},
+    "C:\\Users\\Frank\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\TicketLibrary\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary.Tests\\BilletLibrary.Tests.csproj",
+      "projectUniqueName": "C:\\source\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary.Tests\\BilletLibrary.Tests.csproj",
       "projectName": "BilletLibrary.Tests",
-      "projectPath": "C:\\source\\TicketLibrary\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary.Tests\\BilletLibrary.Tests.csproj",
-      "packagesPath": "C:\\Users\\Nadia\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\TicketLibrary\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary.Tests\\obj\\",
+      "projectPath": "C:\\source\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary.Tests\\BilletLibrary.Tests.csproj",
+      "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+      "outputPath": "C:\\source\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nadia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5768,8 +5768,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\source\\TicketLibrary\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj": {
-              "projectPath": "C:\\source\\TicketLibrary\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj"
+            "C:\\source\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj": {
+              "projectPath": "C:\\source\\billetlibrary-NHJeasj\\BilletLibrary\\BilletLibrary\\BilletLibrary.csproj"
             }
           }
         }
